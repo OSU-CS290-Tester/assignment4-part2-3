@@ -1,0 +1,30 @@
+Start: Mon, 9 Feb 2015 19:13:20 -0800
+End: Tue, 10 Feb 2015 00:15:41 -0800
+Tasks: as with any assignment, watched a lot of youtube videos on php and sql
+
+Start: Tue, 10 Feb 2015 18:41:10 -0800
+End: Wed, 11 Feb 2015 00:58:02 -0800
+Tasks: created table, created interface for adding video, connecting to server, inserting data
+
+Start: Wed, 11 Feb 2015 20:08:30 -0800
+End: Wed, 11 Feb 2015 23:12:54 -0800
+Tasks: worked on validating user input, started working on the quiries
+
+Start: Thu, 12 Feb 2015 15:21:02 -0800
+End: Thu, 12 Feb 2015 20:21:42 -0800
+Tasks: finished queries
+
+Start: Thu, 12 Feb 2015 21:28:00 -0600
+End: Fri, 13 Feb 2015 02:27:28 -0600
+Tasks: worked on figuring out how to connect sql quiries and php
+
+Start: Fri, 13 Feb 2015 20:18:00 -0600
+End: Sat, 14 Feb 2015 01:14:12 -0600
+Tasks: added all buttons, sql and php are communicating
+
+Start: Sun, 15 Feb 2015 14:16:00 -0800
+End: Sun, 15 Feb 2015 23:26:12 -0800
+Tasks: had issues with deleting movies with names made of more than one word, also was not able
+to chechout those movies. redid queries, now I select rows based on unique id, not name,
+went through the rough testing protocol, it seems that evething works now. Added some interface.
+
